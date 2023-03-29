@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.botondesuma {
+    background-color: rgb(69, 69, 151);
+    color: white;
+    position: absolute;
+    left: 10px;
+    width: 400px;
+    height: 100px;
+    font-size: 40px;
+}
+
+.botondesuma:hover {
+    opacity: 50%;
+}
